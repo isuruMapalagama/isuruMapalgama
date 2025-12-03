@@ -1,6 +1,16 @@
-<!-- Dark Mode Banner -->
+<!-- ================= VISITOR COUNTER ================= -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=isuruMapalagama&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
+</p>
+
+<!-- ================= DARK ANIMATED BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=250&section=header&text=Isuru%20Mapalagama&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=260&section=header&text=Isuru%20Mapalagama&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ================= TYPING ANIMATION ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineer+Intern;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <h3 align="center">🚀 Software Engineer Intern | Full-Stack Developer | ML Enthusiast</h3>
@@ -50,7 +60,7 @@ To secure a **Software Engineer Internship** where I can contribute to real-worl
 
 ### 🌍 Travel Website  
 **Tech:** HTML | CSS | MySQL  
-✅ Hotel Booking  
+✅ Hotel Booking System  
 ✅ City & Heritage Display  
 🔗 Repo:  
 👉 https://github.com/isuruMapalagama/trvel_website  
@@ -60,7 +70,7 @@ To secure a **Software Engineer Internship** where I can contribute to real-worl
 ### 🏋️ Gym Management System  
 **Tech:** C# | MySQL  
 ✅ Add, Delete, Search Members  
-✅ Secure Login  
+✅ Secure Login System  
 🔗 Repo:  
 👉 https://github.com/isuruMapalagama/gym_managemet_system  
 
@@ -90,12 +100,13 @@ To secure a **Software Engineer Internship** where I can contribute to real-worl
 **Tech:** Node.js | React | MySQL | Tailwind  
 ✅ RESTful API  
 ✅ Product Search  
+✅ Interactive UI  
 🔗 Repo:  
 👉 https://github.com/isuruMapalagama/product-frontend-react  
 
 ---
 
-## 📊 GitHub Stats (Live Badges)
+## 📊 GitHub Stats (Live)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isuruMapalagama&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
@@ -152,6 +163,7 @@ Sabaragamuwa University of Sri Lanka
 
 ---
 
+<!-- ================= FOOTER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f172a&height=120&section=footer"/>
 </p>
