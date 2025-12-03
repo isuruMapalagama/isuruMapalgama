@@ -1,8 +1,3 @@
-<!-- ================= VISITOR COUNTER ================= -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=isuruMapalagama&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor counter"/>
-</p>
-
 <!-- ================= DARK ANIMATED BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:312e81&height=260&section=header&text=Isuru%20Mapalagama&fontSize=40&fontColor=ffffff&animation=fadeIn" />
