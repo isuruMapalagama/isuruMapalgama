@@ -51,7 +51,7 @@ To secure a **Software Engineer Internship** where I can contribute to real-worl
 
 ---
 
-## 💼 Internship-Ready Profile Highlights
+## 💼 Profile Highlights
 
 ✅ Strong foundation in **OOP & Data Structures**  
 ✅ Experience in **Agile & Scrum**  
